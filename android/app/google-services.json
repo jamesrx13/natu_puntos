@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944154940336",
+    "firebase_url": "https://natupuntos-1bebf-default-rtdb.firebaseio.com",
+    "project_id": "natupuntos-1bebf",
+    "storage_bucket": "natupuntos-1bebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944154940336:android:957d132225a52547443c75",
+        "android_client_info": {
+          "package_name": "com.natupuntos.natu_puntos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944154940336-bse62tqfnhjho2l2767idoj51f4q3ba0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natupuntos.natu_puntos",
+            "certificate_hash": "0aa9da187f4c82a8ada5e6ce827a6f59fcb0ccec"
+          }
+        },
+        {
+          "client_id": "944154940336-b2hl6g3geun8jn7376ar7nag7rgv1coq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHvqD0i2w5VpiKrQsMTkHsbAW4SQMu8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944154940336-b2hl6g3geun8jn7376ar7nag7rgv1coq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

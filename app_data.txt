@@ -1,0 +1,9 @@
+keytool -genkey -v -keystore key\key.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias natupuntos
+
+alias: natupuntos
+pass: Natupuntos*2022
+
+com.natupuntos.natu_puntos
+
+SHA1: 0A:A9:DA:18:7F:4C:82:A8:AD:A5:E6:CE:82:7A:6F:59:FC:B0:CC:EC
+SHA-256: A0:F1:D1:79:E9:8A:03:AE:18:50:64:38:06:B7:F1:CC:70:FF:AF:C1:A4:3E:F1:46:0B:A9:A4:C1:D7:A2:70:AC
