@@ -13,8 +13,8 @@ class ActionBtn extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     dynamic style = ElevatedButton.styleFrom(
-      foregroundColor: Colors.white,
-      backgroundColor: color,
+      textStyle: const TextStyle(color: Colors.white),
+      primary: color,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(25),
       ),

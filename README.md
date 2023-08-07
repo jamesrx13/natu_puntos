@@ -1,16 +1,20 @@
 # natu_puntos
 
-A new Flutter project.
+Natu Puntos
 
-## Getting Started
+## Instalación
 
-This project is a starting point for a Flutter application.
+- Correr sobre la versión 3.1.0 de Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Información de la config sobre la que corre
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter 3.1.0 • channel beta • https://github.com/flutter/flutter.git
+Framework • revision bcea432bce (1 year, 2 months ago) • 2022-05-26 09:05:34 -0700
+Engine • revision 44e5b38ee8
+Tools • Dart 2.18.0 (build 2.18.0-44.1.beta) • DevTools 2.12.2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Despliegue
+
+- Ejecutar: flutter clean
+- Ejecutar: flutter pub upgrade --major-versions
+- (Si se usa fvm _!SOLO SI SE USA FVM¡_) Ejecutar: fvm flutter pub upgrade --major-versions
